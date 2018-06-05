@@ -1,0 +1,13 @@
+01 Март 2016
+   released version 1.3.4 of ltr_4ch_rev3
+
+     Change log:
+        -Added: autoversionong
+        -New: Жирный шрифт сообщения в терминале
+
+01 Март 2016
+   released version 1.3.2 of ltr_4ch_rev3
+
+     Change log:
+        -Added: autoversioning
+
